@@ -1,4 +1,6 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+Developed a scalable pharmacy management system, "PharmaTrack," using Laravel and the MVC architecture, integrating MySQL to automate inventory tracking, sales management, and reporting for enhanced operational efficiency.
+Designed a responsive and user-friendly interface using Bootstrap, ensuring seamless navigation and accessibility across devices. Implemented secure role-based access control for the admin panel, safeguarding sensitive data through robust MySQL database integration and enabling user-specific permissions.
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
